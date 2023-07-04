@@ -33,6 +33,12 @@ a:hover {
 	-moz-transition: all 0.5s;
 	transition: all 0.5s;
 }
+h2{
+	color:#d7e8f8;
+	-webkit-transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	transition: all 0.5s;
+}
 
 body {
   min-height: 450px;
